@@ -2,7 +2,8 @@
 
 
 
- <a href="https://github.com/Mariacfagundes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariacfagundes&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mariacfagundes" /></a>  <a href="https://github.com/Mariacfagundes/github-readme-stats"><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariacfagundes&layout=compact&theme=dark&hide_border=true" /></a>
+| <a href="https://github.com/Mariacfagundes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mariacfagundes&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mariacfagundes" /></a> | <a href="https://github.com/Mariacfagundes/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariacfagundes&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
