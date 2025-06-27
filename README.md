@@ -17,6 +17,9 @@
     <img align="center" alt=html5  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt=html5  src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
      <h2 align="center"> Aprendendo </h2>
+    [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+    [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+    [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
      <img align="center" alt=html5   src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
      <img align="center" alt=html5  src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
    </div>
